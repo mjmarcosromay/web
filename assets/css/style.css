@@ -929,16 +929,16 @@ h6 {
 }
 
 .meetup__resources__list_video_bullet {
-  list-style-image: url('/web/assets/images/icons/video.png');
+  list-style-image: url('/web/assets/images/icons/videocam24px.svg');
 }
 .meetup__resources__list_slide_bullet {
-  list-style-image:url('/web/assets/images/icons/slide.png');
+  list-style-image:url('/web/assets/images/icons/slideshow24px.svg');
 }
 .meetup__resources__list_meetup_bullet {
-  list-style-image:url('/web/assets/images/icons/group.png');
+  list-style-image:url('/web/assets/images/icons/group24px.svg');
 }
 .meetup__resources__list_code_bullet {
-  list-style-image:url('/web/assets/images/icons/code.png');
+  list-style-image:url('/web/assets/images/icons/code24px.svg');
 }
 
 .meetup__resource {
